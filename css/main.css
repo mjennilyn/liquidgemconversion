@@ -1,0 +1,255 @@
+
+* {
+	background-color: #EBEBEB;
+	margin: 0;
+	padding: 0;
+    font-family: 'Harmattan', sans-serif;
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	height: 50px;
+	display: block;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	font-size: 20px;
+}
+
+#header {
+	float: left;
+	padding-left: 5px;
+	padding-top: 20px;
+	font-size: 20px;
+
+}
+
+.navbar {
+	padding-top: 25px;
+	font-size: 20px;
+
+}
+
+.navbar li {
+	text-align: right;
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	padding-right: 30px;
+	
+
+}
+
+.navbar i {
+	float: left;
+	margin-left: 15px;
+
+}
+
+.header{
+	font-family: 'Cedarville Cursive', cursive;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.fa-diamond{
+	color: #FB93AC;
+
+}
+
+.main-header {
+	text-align: center;
+}
+
+.main-header h1 {
+	font-size: 25px;
+	padding-top: 25px;
+
+}
+
+.main-header h2 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.main-header img {
+	border-radius: 10px;
+	height: 220px;
+	width: 98%;
+	margin-top: 15px;
+	
+
+}
+
+.about-me {
+	display: inline-block;
+	width: 500px;
+	height: 75px;
+	position: relative;
+	margin-bottom: 20px;
+	margin-left: 35px;
+	margin-top: 20px;
+	font-size: 20px;
+	line-height: 35px;
+
+}
+
+.about-me h1 {
+	text-align: center;
+	padding-top: 30px;
+	color: #FB93AC;
+	font-size: 30px;
+}
+
+
+
+.my-work {
+	float: right;
+	display: inline-block;
+	width: 500px;
+	height: 75px;
+	margin-top: 25px;
+	font-size: 20px;
+	line-height: 35px;
+	position: relative;
+	margin-right: 35px;
+
+
+
+}
+
+.my-work h1 {
+	text-align: center;
+	padding-top: 30px;
+	color: #FB93AC;
+	font-size: 30px;
+}
+
+.floating-box {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	font-size: 9px;
+	border-radius: 15px;
+	background-color: #FFFFFF;
+	border: 2px thin #000000;
+	margin: 5px;
+	margin-top: 70px;
+
+}
+
+.floating-box h1 {
+	background-color: #FFFFFF;
+	padding: 1px;
+	border-radius: 10px;
+}
+
+.floating-box h2 {
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	font-family:'Cedarville Cursive', cursive;
+	color: #FB93AC ;
+
+}
+.floating-box img {
+	height: 150px;
+	width: 180px;
+	border-radius: 5px;
+}
+
+.space {
+	padding-left: 120px;
+	padding-right: 120px;
+
+}
+
+.closing {
+	color: #FB93AC;
+	padding-top: 20px;
+	font-size: 25px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.closing{
+	font-family: 'Cedarville Cursive', cursive;
+	font-weight: bold;
+}
+
+
+.footer {
+	height: 250px;
+	width: 100%;
+	background-color: black;
+	bottom: 0;
+	float: right;
+	padding-top: 150px;
+	padding-right: 15px;
+}
+
+.footer i {
+	background-color: pink;
+	float: right;
+	border-radius: 50%;
+	padding: 2px;
+	margin: 20px;
+	margin-top: -5px;
+}
+
+.form {
+	background-color: black;
+	box-sizing: border-box;
+	border-radius: 4px;
+	width: 200px;
+	padding: 5px;
+	height: 30px;
+	bottom: 0;
+	margin-top: -80px;
+
+}
+
+
+.form input {
+	width: 350px;
+	margin: 5px;
+	margin-left: 35px;
+	border-radius: 10px;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+
+#fname{
+	height: 20px;
+}
+
+#e-mail{
+	height: 20px;
+}
+
+#message{
+	height: 95px;
+	
+}
+
+.footer h1 {
+	margin-left: 35px;
+	background-color: black;
+	color: #FB93AC ;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
+.footer button {
+	background-color: #FB93AC;
+	color: black;
+	width: 40%;
+	border: 2px solid black;
+	text-decoration: none;
+	margin-left: 35px;
+	
+}
